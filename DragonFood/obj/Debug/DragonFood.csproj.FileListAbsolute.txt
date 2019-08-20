@@ -1,0 +1,7 @@
+C:\Users\s199026\source\repos\ThreeByThree\DragonFood\bin\Debug\DragonFood.exe.config
+C:\Users\s199026\source\repos\ThreeByThree\DragonFood\bin\Debug\DragonFood.exe
+C:\Users\s199026\source\repos\ThreeByThree\DragonFood\bin\Debug\DragonFood.pdb
+C:\Users\s199026\source\repos\ThreeByThree\DragonFood\obj\Debug\DragonFood.csprojAssemblyReference.cache
+C:\Users\s199026\source\repos\ThreeByThree\DragonFood\obj\Debug\DragonFood.csproj.CoreCompileInputs.cache
+C:\Users\s199026\source\repos\ThreeByThree\DragonFood\obj\Debug\DragonFood.exe
+C:\Users\s199026\source\repos\ThreeByThree\DragonFood\obj\Debug\DragonFood.pdb

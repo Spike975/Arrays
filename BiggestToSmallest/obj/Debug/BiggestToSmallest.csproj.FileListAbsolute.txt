@@ -1,0 +1,7 @@
+C:\Users\s199026\source\repos\Arrays\BiggestToSmallest\bin\Debug\BiggestToSmallest.exe.config
+C:\Users\s199026\source\repos\Arrays\BiggestToSmallest\bin\Debug\BiggestToSmallest.exe
+C:\Users\s199026\source\repos\Arrays\BiggestToSmallest\bin\Debug\BiggestToSmallest.pdb
+C:\Users\s199026\source\repos\Arrays\BiggestToSmallest\obj\Debug\BiggestToSmallest.csproj.CoreCompileInputs.cache
+C:\Users\s199026\source\repos\Arrays\BiggestToSmallest\obj\Debug\BiggestToSmallest.exe
+C:\Users\s199026\source\repos\Arrays\BiggestToSmallest\obj\Debug\BiggestToSmallest.pdb
+C:\Users\s199026\source\repos\Arrays\BiggestToSmallest\obj\Debug\BiggestToSmallest.csprojAssemblyReference.cache

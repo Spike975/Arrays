@@ -1,0 +1,7 @@
+C:\Users\s199026\source\repos\Arrays\Days\bin\Debug\Days.exe.config
+C:\Users\s199026\source\repos\Arrays\Days\bin\Debug\Days.exe
+C:\Users\s199026\source\repos\Arrays\Days\bin\Debug\Days.pdb
+C:\Users\s199026\source\repos\Arrays\Days\obj\Debug\Days.csprojAssemblyReference.cache
+C:\Users\s199026\source\repos\Arrays\Days\obj\Debug\Days.csproj.CoreCompileInputs.cache
+C:\Users\s199026\source\repos\Arrays\Days\obj\Debug\Days.exe
+C:\Users\s199026\source\repos\Arrays\Days\obj\Debug\Days.pdb
