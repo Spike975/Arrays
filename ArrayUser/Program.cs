@@ -11,12 +11,10 @@ namespace ArrayUser
         static void Main(string[] args)
         {
             int[] input = new int[5];
-            int.TryParse(ask("Please enter a number:"),out input[0]);
-            int.TryParse(ask("Please enter another number:"),out input[1]);
-            int.TryParse(ask("Please enter another number:"),out input[2]);
-            int.TryParse(ask("Please enter another number:"),out input[3]);
-            int.TryParse(ask("Please enter another number:"),out input[4]);
-
+            for (int i = 0; i < 5; i++) {
+                int.TryParse(ask("Enter a number:"), out input[i]);
+            }
+            Console.WriteLine();
             for (int idx = input.Length-1; idx>=0;idx--)
             {
                 Console.WriteLine(input[idx]);

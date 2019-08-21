@@ -4,3 +4,4 @@ C:\Users\s199026\source\repos\Arrays\ArrayUser\bin\Debug\ArrayUser.pdb
 C:\Users\s199026\source\repos\Arrays\ArrayUser\obj\Debug\ArrayUser.csproj.CoreCompileInputs.cache
 C:\Users\s199026\source\repos\Arrays\ArrayUser\obj\Debug\ArrayUser.exe
 C:\Users\s199026\source\repos\Arrays\ArrayUser\obj\Debug\ArrayUser.pdb
+C:\Users\s199026\source\repos\Arrays\ArrayUser\obj\Debug\ArrayUser.csprojAssemblyReference.cache

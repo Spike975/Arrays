@@ -4,3 +4,4 @@ C:\Users\s199026\source\repos\Arrays\Arrays\bin\Debug\Arrays.pdb
 C:\Users\s199026\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
 C:\Users\s199026\source\repos\Arrays\Arrays\obj\Debug\Arrays.exe
 C:\Users\s199026\source\repos\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\s199026\source\repos\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache

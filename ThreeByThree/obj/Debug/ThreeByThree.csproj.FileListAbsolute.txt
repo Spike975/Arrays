@@ -4,3 +4,10 @@ C:\Users\s199026\source\repos\ThreeByThree\ThreeByThree\bin\Debug\ThreeByThree.e
 C:\Users\s199026\source\repos\ThreeByThree\ThreeByThree\bin\Debug\ThreeByThree.pdb
 C:\Users\s199026\source\repos\ThreeByThree\ThreeByThree\obj\Debug\ThreeByThree.exe
 C:\Users\s199026\source\repos\ThreeByThree\ThreeByThree\obj\Debug\ThreeByThree.pdb
+C:\Users\s199026\source\repos\Arrays\ThreeByThree\bin\Debug\ThreeByThree.exe.config
+C:\Users\s199026\source\repos\Arrays\ThreeByThree\bin\Debug\ThreeByThree.exe
+C:\Users\s199026\source\repos\Arrays\ThreeByThree\bin\Debug\ThreeByThree.pdb
+C:\Users\s199026\source\repos\Arrays\ThreeByThree\obj\Debug\ThreeByThree.csprojAssemblyReference.cache
+C:\Users\s199026\source\repos\Arrays\ThreeByThree\obj\Debug\ThreeByThree.csproj.CoreCompileInputs.cache
+C:\Users\s199026\source\repos\Arrays\ThreeByThree\obj\Debug\ThreeByThree.exe
+C:\Users\s199026\source\repos\Arrays\ThreeByThree\obj\Debug\ThreeByThree.pdb
